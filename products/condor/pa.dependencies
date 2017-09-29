@@ -19,8 +19,8 @@
   },
   {
     "remote":          "github",
-    "repository":     "kukun7610/android_device_motorola_condor",
-    "target_path":   "kernel/motorola/msm8610",
+    "repository":     "kukun7610/device_motorola_condor",
+    "target_path":   "device/motorola/condor",
     "revision":          "pa-7x"
   },
   {
