@@ -47,3 +47,8 @@
     $(LOCAL_DIR)/dora/pa_dora.mk \
     $(LOCAL_DIR)/kagura/pa_kagura.mk \
     $(LOCAL_DIR)/keyaki/pa_keyaki.mk
+    
+# Motorola Devices
+   PRODUCT_MAKEFILES += \
+    $(LOCAL_DIR)/condor/pa_condor.mk \
+    $(Local_DIR)/otus/pa_otus.mk
