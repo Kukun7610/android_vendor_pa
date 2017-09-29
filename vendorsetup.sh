@@ -30,3 +30,7 @@ add_lunch_combo pa_suzu-userdebug
 add_lunch_combo pa_dora-userdebug
 add_lunch_combo pa_kagura-userdebug
 add_lunch_combo pa_keyaki-userdebug
+# Motorola
+add_lunch_combo pa_osprey-userdebug
+add_lunch_combo pa_condor-userdebug
+add_lunch_combo pa_otus-userdebug
