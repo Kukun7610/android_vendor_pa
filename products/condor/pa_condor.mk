@@ -27,7 +27,7 @@ include device/qcom/common/common.mk
 
 
 # Include PA common configuration
-TARGET_BOOT_ANIMATION_RES := 420
+TARGET_BOOT_ANIMATION_RES := 720
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := condor
