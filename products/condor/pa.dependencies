@@ -13,7 +13,7 @@
   },
   {
     "remote":          "github",
-    "repository":     "LineageOS/android_kernel_motorola_msm8610",
+    "repository":     "kukun7610/android_kernel_motorola_msm8610",
     "target_path":   "kernel/motorola/msm8610",
     "revision":          "cm-14.1"
   },
@@ -27,19 +27,22 @@
     "remote":       "aospa",
     "target_path":  "hardware/qcom/audio",
     "repository":   "AOSPA/android_hardware_qcom_audio",
-    "revision":     "nougat-mr2-aosp"
+    "target_path":  "hardware/qcom/audio",
+    "revision":     "nougat-mr2-8974"
   },
   {
     "target_path":  "hardware/qcom/display",
     "repository":   "AOSPA/android_hardware_qcom_display",
     "remote":       "aospa",
-    "revision":     "nougat-mr2-aosp"
+    "target_path":  "hardware/qcom/display",
+    "revision":     "nougat-mr2-8974"
   },
   {
     "target_path":  "hardware/qcom/media",
     "repository":   "AOSPA/android_hardware_qcom_media",
+    "target_path":  "hardware/qcom/media",
     "remote":       "aospa",
-    "revision":     "nougat-mr2-aosp"
+    "revision":     "nougat-mr2-8974"
   },
   {
     "remote":       "github",
@@ -48,3 +51,4 @@
     "revision":     "cm-14.1"
   }
 ]
+
