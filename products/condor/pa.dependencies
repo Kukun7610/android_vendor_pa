@@ -1,7 +1,7 @@
 [                                                                           
   {
     "remote":          "github",
-    "repository":     "LineageOS/android_device_motorola_msm8610-common",
+    "repository":     "kukun7610/android_device_motorola_msm8610-common",
     "target_path":   "device/motorola/msm8610-common",
     "revision":          "cm-14.1"
   },
