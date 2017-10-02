@@ -51,8 +51,8 @@
     "revision":     "cm-14.1"
   },
   {                    
-    "remote":           "github",                 
-    "repository":     "Kukun7610/UBERTC_arm-linux-androideabi-5.3",                  
+    "remote":           "bitbucket",                 
+    "repository":     "UBERTC/arm-linux-androideabi-5.3",                  
     "target_path":   "UBERTC/arm-linux-androideabi-5.3",
     "revision":          "master"
   }
