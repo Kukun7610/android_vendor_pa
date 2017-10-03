@@ -50,10 +50,5 @@
     "target_path":  "vendor/motorola",
     "revision":     "cm-14.1"
   },
-  {                    
-    "remote":           "bitbucket",                 
-    "repository":     "UBERTC/arm-linux-androideabi-5.3",                  
-    "target_path":   "UBERTC/arm-linux-androideabi-5.3",
-    "revision":          "master"
-  }
+ 
 ]
