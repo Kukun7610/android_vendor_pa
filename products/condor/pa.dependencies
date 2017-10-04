@@ -19,7 +19,7 @@
   },
   {
     "remote":          "github",
-    "repository":     "kukun7610/device_motorola_condor",
+    "repository":     "kukun7610/device_motorola_condor-pa",
     "target_path":   "device/motorola/condor",
     "revision":          "pa-7x"
   },
