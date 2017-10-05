@@ -1,54 +1,11 @@
 [                                                                           
-  {
-    "remote":          "github",
-    "repository":     "kukun7610/android_device_motorola_msm8610-common",
-    "target_path":   "device/motorola/msm8610-common",
-    "revision":          "cm-14.1"
-  },
-  {                    
-    "remote":           "github",                 
-    "repository":     "LineageOS/android_packages_resources_devicesettings",                  
-    "target_path":   "packages/resources/devicesettings",
-    "revision":          "cm-14.1"
-  },
-  {
-    "remote":          "github",
-    "repository":     "kukun7610/android_kernel_motorola_msm8610",
-    "target_path":   "kernel/motorola/msm8610",
-    "revision":          "cm-14.1"
-  },
+ 
   {
     "remote":          "github",
     "repository":     "kukun7610/device_motorola_otus",
     "target_path":   "device/motorola/otus",
     "revision":          "pa-7x"
-  },
-  {
-    "remote":       "aospa",
-    "target_path":  "hardware/qcom/audio",
-    "repository":   "AOSPA/android_hardware_qcom_audio",
-    "target_path":  "hardware/qcom/audio",
-    "revision":     "nougat-mr2-8974"
-  },
-  {
-    "target_path":  "hardware/qcom/display",
-    "repository":   "AOSPA/android_hardware_qcom_display",
-    "remote":       "aospa",
-    "target_path":  "hardware/qcom/display",
-    "revision":     "nougat-mr2-8974"
-  },
-  {
-    "target_path":  "hardware/qcom/media",
-    "repository":   "AOSPA/android_hardware_qcom_media",
-    "target_path":  "hardware/qcom/media",
-    "remote":       "aospa",
-    "revision":     "nougat-mr2-8974"
-  },
-  {
-    "remote":       "github",
-    "repository":   "kukun7610/proprietary_vendor_motorola",
-    "target_path":  "vendor/motorola",
-    "revision":     "cm-14.1"
   }
- 
+  
+  
 ]
