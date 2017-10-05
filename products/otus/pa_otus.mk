@@ -21,22 +21,21 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit AOSP device configuration
 $(call inherit-product, device/motorola/otus/full_otus.mk)
 
-# Inherit some common AOSPA stuff.
-include vendor/pa/main.mk
-include device/qcom/common/common.mk
-
-
 # Include PA common configuration
 TARGET_BOOT_ANIMATION_RES := 720
 
+# Inherit some common AOSPA stuff.
+include vendor/pa/main.mk
+
+include device/qcom/common/common.mk
+
+
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := OTUS
+PRODUCT_DEVICE := otus
 PRODUCT_NAME := pa_otus
 PRODUCT_BRAND := Motorola
 PRODUCT_MANUFACTURER := Motorola
-PRODUCT_RELEASE_NAME := Moto E2
-
-
+PRODUCT_RELEASE_NAME := otus
 
 
 endif
