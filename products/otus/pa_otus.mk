@@ -30,7 +30,7 @@ include vendor/pa/main.mk
 include device/qcom/common/common.mk
 
 
-## Device identifier. This must come after all inclusions
+# Override AOSP build properties
 PRODUCT_DEVICE := otus
 PRODUCT_NAME := pa_otus
 PRODUCT_BRAND := Motorola
