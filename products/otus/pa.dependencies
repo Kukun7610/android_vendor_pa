@@ -1,7 +1,7 @@
 [
     {
         "remote":       "github",
-        "repository":   "Kukun7610/device_motorola_otus",
+        "repository":   "Kukun7610/android_device_motorola_otus",
         "target_path":  "device/motorola/otus",
         "revision":     "pa-7x"
     },
