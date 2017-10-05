@@ -2,7 +2,7 @@
  
   {
     "remote":          "github",
-    "repository":     "kukun7610/device_motorola_condor",
+    "repository":     "shaikharbaaz101/device_motorola_condor",
     "target_path":   "device/motorola/condor",
     "revision":          "pa-7x"
   }
