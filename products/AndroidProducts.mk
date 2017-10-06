@@ -51,4 +51,8 @@
 # Motorola Devices
    PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/condor/pa_condor.mk \
-    $(Local_DIR)/otus/pa_otus.mk
+    $(LOCAL_DIR)/otus/pa_otus.mk \
+    $(LOCAL_DIR)/ospery/pa_ospery.mk \
+    $(LOCAL_DIR)/surnia/pa_surnia.mk \
+    $(LOCAL_DIR)/falcon/pa_falcon.mk
+    
