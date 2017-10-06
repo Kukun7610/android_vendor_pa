@@ -34,3 +34,5 @@ add_lunch_combo pa_keyaki-userdebug
 add_lunch_combo pa_osprey-userdebug
 add_lunch_combo pa_condor-userdebug
 add_lunch_combo pa_otus-userdebug
+add_lunch_combo pa_falcon-userdebug
+add_lunch_combo pa_surnia-userdebug
